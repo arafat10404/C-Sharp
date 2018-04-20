@@ -1,0 +1,7 @@
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\bin\Debug\Programming.exe.config
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\bin\Debug\Programming.exe
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\bin\Debug\Programming.pdb
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\obj\Debug\Programming.exe
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\obj\Debug\Programming.pdb
+C:\Users\redwa\source\repos\CSharpProgramming\Programming\obj\Debug\Programming.csprojResolveAssemblyReference.cache
