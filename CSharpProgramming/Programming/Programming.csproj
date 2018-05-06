@@ -47,7 +47,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programming.String_All.Reverse_Sort_IEnumerator</StartupObject>
+    <StartupObject>Programming.Collections_STL.List_L.ReferenceTypeSort</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,33 +64,73 @@
     <Compile Include="Array_All\Array2D\Char1D.cs" />
     <Compile Include="Array_All\Array2D\JaggedArray2D_1.cs" />
     <Compile Include="Array_All\Array2D\JaggedArray2D_2.cs" />
+    <Compile Include="Array_All\Array2D\JaggedArray2D_3.cs" />
     <Compile Include="Array_All\Array2D\MultidimensionalArray.cs" />
     <Compile Include="Array_All\Binary_Search.cs" />
     <Compile Include="Array_All\Clear_Clone.cs" />
     <Compile Include="Array_All\Copy_CopyTo.cs" />
     <Compile Include="Array_All\ParamsArray.cs" />
     <Compile Include="Array_All\Reverse_Sort_IndexOf.cs" />
+    <Compile Include="Collections_STL\Dictionary_D\Basic.cs" />
+    <Compile Include="Collections_STL\Dictionary_D\DifferentTypeOfPrint.cs" />
+    <Compile Include="Collections_STL\Dictionary_D\SortByValue_InList.cs" />
+    <Compile Include="Collections_STL\Dictionary_D\Descending_Ascending_SortByValue.cs" />
+    <Compile Include="Collections_STL\LinkedList_LL\Descending_Ascending_Sort.cs" />
+    <Compile Include="Collections_STL\LinkedList_LL\First_Last_AddLast_AddFirst_RemoveFirst_RemoveLast.cs" />
+    <Compile Include="Collections_STL\List_L\Add_Insert_AddRange_InsertRange.cs" />
+    <Compile Include="Collections_STL\List_L\AdjacencyList.cs" />
+    <Compile Include="Collections_STL\List_L\Besic.cs" />
+    <Compile Include="Collections_STL\List_L\Count_GetRange_Clear_Contains.cs" />
+    <Compile Include="Collections_STL\List_L\Find_FindAll_FindIndex_Exists_Equals.cs" />
+    <Compile Include="Collections_STL\List_L\KeyValuePair_Demo.cs" />
+    <Compile Include="Collections_STL\List_L\ReferenceTypeSort.cs" />
+    <Compile Include="Collections_STL\List_L\Remove_RemoveAll_RemoveAt_RemoveRange.cs" />
+    <Compile Include="Collections_STL\List_L\ToArray_CopyTo_ConvertAll.cs" />
+    <Compile Include="Collections_STL\List_L\Tuple_Sort_Reverse.cs" />
+    <Compile Include="Collections_STL\Queue_Q\Enqueue_Dequeue_Peek.cs" />
+    <Compile Include="Collections_STL\SortedList_SL\Basic.cs" />
+    <Compile Include="Collections_STL\Stack_S\Push_Pop_Peek.cs" />
     <Compile Include="Control_Statement\SwitchCase.cs" />
+    <Compile Include="Delegate_Anonymous\Delegate_Besic.cs" />
     <Compile Include="Function\CallByOut.cs" />
     <Compile Include="Function\CallByRef.cs" />
     <Compile Include="Function\CallByValue.cs" />
+    <Compile Include="Object_Oriented\Abstract_Interface\Abstract1.cs" />
+    <Compile Include="Object_Oriented\Abstract_Interface\Interface1.cs" />
+    <Compile Include="Object_Oriented\Abstract_Interface\InterfaceRealLife.cs" />
+    <Compile Include="Object_Oriented\Basekeyword\BaseKeyword1.cs" />
     <Compile Include="Object_Oriented\Constructor\Constructor1.cs" />
     <Compile Include="Object_Oriented\Constructor\StaticConstructor.cs" />
     <Compile Include="Object_Oriented\Destructor\Destructor1.cs" />
     <Compile Include="Object_Oriented\GetSet\GetterSetter1.cs" />
     <Compile Include="Object_Oriented\GetSet\GetterSetter2.cs" />
     <Compile Include="Object_Oriented\GetSet\GetterSetter3.cs" />
+    <Compile Include="Object_Oriented\GetSet\GetterSetter4_Joss.cs" />
+    <Compile Include="Object_Oriented\Inheritance\Inheritance1.cs" />
+    <Compile Include="Object_Oriented\ObjectCopy\Difference.cs" />
+    <Compile Include="Object_Oriented\ObjectCopy\ShallowCopy.cs" />
+    <Compile Include="Object_Oriented\Others\Difference_IEnumerator_And_IEnumerable.cs" />
+    <Compile Include="Object_Oriented\Others\GetType_typeof.cs" />
+    <Compile Include="Object_Oriented\Polymorphism\Downcasting.cs" />
+    <Compile Include="Object_Oriented\Polymorphism\UpCasting.cs" />
+    <Compile Include="Object_Oriented\Others\ReadonlyConst.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="String_All\Clone_C.cs" />
+    <Compile Include="String_All\Contains_Substring.cs" />
+    <Compile Include="String_All\EndsWith_E.cs" />
+    <Compile Include="String_All\GetEnumerator_GE.cs" />
+    <Compile Include="String_All\IntToBinary_BinaryToInt.cs" />
     <Compile Include="String_All\Reverse_Sort_IEnumerator.cs" />
+    <Compile Include="String_All\Split_S.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Object_Oriented\Abstract_Interface\" />
-    <Folder Include="Object_Oriented\Basekeyword\" />
-    <Folder Include="Object_Oriented\Inheritance\" />
-    <Folder Include="Object_Oriented\Polymorphism\" />
+    <Folder Include="Anonymous_LambdaExpression\" />
+    <Folder Include="Collections_STL\HashSet_HS\" />
+    <Folder Include="Collections_STL\SortedDictionary_SD\" />
+    <Folder Include="Collections_STL\SortedSet_SS\" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
